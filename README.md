@@ -1,3 +1,3 @@
 # nwtools-public
 
-Submit bug reports via the Issues tab at the top.
+Submit bug reports & feature suggestions via the Issues tab at the top.
